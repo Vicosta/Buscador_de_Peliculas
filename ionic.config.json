@@ -1,0 +1,7 @@
+{
+  "name": "proyectoPeli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
